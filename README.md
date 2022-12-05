@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimir Traigel, back-end developer since 2014 (usually use NodeJS, but also interested in GoLang). I'm also using Vue.JS for my pet-projects.
-- :canada: My current aim is relocate to Canada, so if you have a job for me or may be you know someone who have a suitable vocation - contact me.
+- 👋 Hi, I’m Vladimir Traigel, back-end developer since 2014 (usually use NodeJS, but also interested in GoLang). I'm also using React for my pet-projects.
 - :trophy: Can build fast, stable and scalable applications.
+- :coffee: Support me at https://www.buymeacoffee.com/vtraigel
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/vtraigel/
