@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Vladimir Traigel, back-end developer since 2014 (usually use NodeJS, but also interested in GoLang). I'm also using React for my pet-projects.
+- 👋 Hi, I’m Vladimir Traigel, back-end developer since 2014 (usually use NodeJS and GoLang). I'm also using React for my pet-projects.
 - :trophy: Can build fast, stable and scalable applications.
-- :coffee: Support me at https://www.buymeacoffee.com/vtraigel
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/vtraigel/
