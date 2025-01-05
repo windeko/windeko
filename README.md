@@ -13,7 +13,8 @@ Fullstack JavaScript/Golang developer
 
 - NodeJS, NestJS, Golang
 - React
-- AWS: K3, Lambda, RDS, Secret Manager.
+- AWS: EC2, S3, Lambda, RDS, Secret Manager.
+- CI/CD to AWS Clouds
 - Jest, Mocha, Puppeteer
 - Redis, RabbitMQ, Kafka
 - Websocket, Socket.io
